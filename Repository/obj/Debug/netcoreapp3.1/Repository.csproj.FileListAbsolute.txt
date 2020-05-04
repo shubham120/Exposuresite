@@ -1,0 +1,8 @@
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+F:\Shubham\projects\Exposuresite\Backend\Exposuresite\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
